@@ -1,0 +1,40 @@
+Pouvez-vous m'indiquer le numéro du rayon des planches ?
+1
+Pouvez-vous m'indiquer le numéro du rayon des pots de peinture ?
+2
+Pouvez-vous m'indiquer le numéro du rayon des lampes ?
+3
+Pouvez-vous m'indiquer le numéro du rayon du carrelage ?
+4
+Pouvez-vous m'indiquer le numéro du rayon des haches ?
+5
+Pouvez-vous m'indiquer le numéro du rayon des perceuse ?
+6
+Pouvez-vous m'indiquer le numéro du rayon des pelles ?
+7
+Pouvez-vous m'indiquer le numéro du rayon des douches ?
+8
+Pouvez-vous m'indiquer le numéro du rayon des fours ?
+9
+Pouvez-vous m'indiquer le numéro du rayon des pinceaux ?
+10
+Pouvez-vous m'indiquer le numéro du rayon des barbecues ?
+11
+Pouvez-vous m'indiquer le numéro du rayon des poeles ?
+12
+Pouvez-vous m'indiquer le numéro du rayon des parpaings ?
+13
+Pouvez-vous m'indiquer le numéro du rayon des prises electriques ?
+14
+Pouvez-vous m'indiquer le numéro du rayon des brouettes ?
+15
+Pouvez-vous m'indiquer le numéro du rayon du ciment ?
+16
+Pouvez-vous m'indiquer le numéro du rayon des lavabo ?
+17
+Pouvez-vous m'indiquer le numéro du rayon des WC ?
+18
+Pouvez-vous m'indiquer le numéro du rayon des tronçonneuses ?
+19
+Pouvez-vous m'indiquer le numéro du rayon des caisses à outils ?
+20
